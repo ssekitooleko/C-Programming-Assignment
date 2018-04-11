@@ -1,1 +1,7 @@
 # C-Programming-Assignment
+
+DETAILS
+Name: SSEKITOOLEKO SAXON
+Reg No.: 16/U/11582/PSA
+Std No.: 216002564
+Course: BSc. ELECTRICAL ENGINEERING
