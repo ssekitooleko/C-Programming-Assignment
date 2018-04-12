@@ -1,6 +1,6 @@
 # C-Programming-Assignment
 
-DETAILS
+         DETAILS
 Name: SSEKITOOLEKO SAXON
 Reg No.: 16/U/11582/PSA
 Std No.: 216002564
