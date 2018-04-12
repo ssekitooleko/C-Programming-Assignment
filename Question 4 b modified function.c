@@ -12,8 +12,6 @@ main()
   }
  }
 
-OR
-
  int*addarrays(int array1[], int array2[], int length)
  {int*destination_array = malloc(length*sizeof(int));
   for(int i=0; i<length; i++)
